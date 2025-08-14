@@ -7,6 +7,10 @@ Bu repo, Java öğrenirken yazdığım temel seviyedeki konsol uygulamalarını 
 - Kdv Hesaplayan Program
 - Not Ortalamasi Hesaplayan Program
 - Otobus Bileti Satis Programi
+- ATM Şifre Doğrulama ve İşlem Menüsü
+- Basit Restoran Sipariş Programı
+- Kahve Dükkanı Sipariş Sistemi
+- Kargo Ücreti Hesaplama Programı
 
 ## Çalıştırma
 ```bash
