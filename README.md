@@ -1,6 +1,6 @@
 # Java Fundamentals Projects
 
-Bu repo, Java öğrenirken yazdığım temel seviyedeki konsol uygulamalarını içerir.
+Bu repo, Java öğrenirken yazdığım temel seviyedeki projeleri içerir.
 
 ## Projeler
 - Akilli Harcama ve Butce Takip Programi
