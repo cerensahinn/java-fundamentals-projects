@@ -11,6 +11,7 @@ Bu repo, Java öğrenirken yazdığım temel seviyedeki projeleri içerir.
 - Basit Restoran Sipariş Programı
 - Kahve Dükkanı Sipariş Sistemi
 - Kargo Ücreti Hesaplama Programı
+- Kitap Okuma Takip Programı
 
 ## Çalıştırma
 ```bash
